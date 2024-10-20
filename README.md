@@ -4,13 +4,13 @@ Welcome to my GitHub profile! I'm a **Junior Network Engineer** with a strong pa
 
 ## 🌐 Who I Am
 
-I have a background in **networking** and **cybersecurity**, with hands-on experience in managing both **corporate IT environments** and **networking infrastructures**. I’m currently expanding my skillset into penetration testing and SOC roles, driven by a deep curiosity for the intricacies of network security and threat hunting.
+I have a background in **networking** and **cybersecurity**, with hands-on experience in managing both **corporate IT environments** and **networking infrastructures**. I’m currently expanding my skillset into Python and Network Engineering roles, driven by a deep curiosity for the complexities of network security and threat hunting.
 
 ## 🔧 Skills & Technologies
 
 - **Networking**: CCNA, CCNP (in progress), deep understanding of network protocols, routing, and wireless troubleshooting.
 - **Programming**: Python for intent networking, script development, and tools for troubleshooting.
-- **Operating Systems**: Proficient in Windows, with Linux skills growing as I dive deeper into network automation.
+- **Operating Systems**: Proficient in Windows, with Linux skills growing as I dive deeper into Cybersecurity.
 - **Cybersecurity**: OSINT, forensics, with a keen focus on SOC practices, and preparing for OSCP certification.
 - **Tools & Technologies**: SCCM, Citrix, CyberARK, VMware, Active Directory, Cisco DNA Center, NetFlow, and Wireshark.
 - **Hardware Enthusiast**: Always eager to explore new hardware, whether networking devices or lab setups.
