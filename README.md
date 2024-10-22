@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Idan (aka MrMeeseeks404)!
+# 👋 Hello, I'm Idan!
 
 Welcome to my GitHub profile! I'm a **Junior Network Engineer** with a strong passion for **cybersecurity** and **network automation**. I love solving complex puzzles, diving deep into **OSINT** and **forensics**, and continuously honing my skills in the world of tech.
 
