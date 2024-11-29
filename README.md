@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Idan!
 
-Welcome to my GitHub profile! I'm a **Junior Network Engineer** with a strong passion for **cybersecurity** and **network automation**. I love solving complex puzzles, diving deep into Troubleshooting and discovering, and continuously honing my skills in the world of tech.
+Welcome to my GitHub profile! I'm a **Junior Network Engineer** with a strong passion for **cybersecurity** and **network automation**. I love solving complex puzzles, diving deep into Troubleshooting, and continuously honing my skills in the world of Tech.
 
 ## 🌐 Who I Am
 
@@ -9,11 +9,11 @@ I have a background in **networking** and **cybersecurity**, with hands-on exper
 ## 🔧 Skills & Technologies
 
 - **Networking**: [CCNA](https://www.credly.com/badges/320f817a-50fe-475f-8fec-6de3a94b6859/public_url), [CCNP](), deep understanding of network protocols, routing, and switching troubleshooting.
-- **Programming**: Python for Intent based Networking, script development, and tools for troubleshooting.
+- **Programming**: Python for Intent-based Networking, script development, and tools for troubleshooting.
 - **Operating Systems**: Proficient in Windows and Certified [LE - 1: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000530199/9gh229utgj), Linux skills growing as I dive deeper into Cybersecurity.
-- **Cybersecurity**: Hands on CyberSecurity Specialist, Most curios about OSINT and Forensics.
+- **Cybersecurity**: Hands-on CyberSecurity Specialist, Most curious about OSINT and Forensics.
 - **Tools & Technologies**: ITSM, CRM, SCCM, Citrix, CyberARK, VMware, Docker, Active Directory, Cisco DNA Center, Cisco IOS, NetFlow, Postman, Wireshark, Lucidchart, Fortinet, Nmap, Metasploit, Git, Ansible.
-- **OS Enthusiast**: Always eager to explore new operating systems, whether networking devices or custom lab devices.
+- **OS Enthusiast**: Always eager to explore new operating systems, whether networking or custom lab devices.
 
 ## 📚 Current Learning Goals
 
