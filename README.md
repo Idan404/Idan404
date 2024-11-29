@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Idan!
 
-Welcome to my GitHub profile! I'm a **Junior Network Engineer** with a strong passion for **cybersecurity** and **network automation**. I love solving complex puzzles, diving deep into **OSINT** and **forensics**, and continuously honing my skills in the world of tech.
+Welcome to my GitHub profile! I'm a **Junior Network Engineer** with a strong passion for **cybersecurity** and **network automation**. I love solving complex puzzles, diving deep into Troubleshooting and discovering, and continuously honing my skills in the world of tech.
 
 ## 🌐 Who I Am
 
@@ -8,12 +8,12 @@ I have a background in **networking** and **cybersecurity**, with hands-on exper
 
 ## 🔧 Skills & Technologies
 
-- **Networking**: CCNA, CCNP (in progress), deep understanding of network protocols, routing, and wireless troubleshooting.
+- **Networking**: CCNA, CCNP, deep understanding of network protocols, routing, and switching troubleshooting.
 - **Programming**: Python for intent networking, script development, and tools for troubleshooting.
-- **Operating Systems**: Proficient in Windows, with Linux skills growing as I dive deeper into Cybersecurity.
-- **Cybersecurity**: OSINT, forensics, with a keen focus on SOC practices, and preparing for OSCP certification.
-- **Tools & Technologies**: SCCM, Citrix, CyberARK, VMware, Active Directory, Cisco DNA Center, NetFlow, and Wireshark.
-- **Hardware Enthusiast**: Always eager to explore new hardware, whether networking devices or lab setups.
+- **Operating Systems**: Proficient in Windows and Certified LE - 1: Linux Essentials, Linux skills growing as I dive deeper into Cybersecurity.
+- **Cybersecurity**: Hands on CyberSecurity Specialist, Most curios about OSINT and Forensics.
+- **Tools & Technologies**: ITSM, CRM, SCCM, Citrix, CyberARK, VMware, Docker, Active Directory, Cisco DNA Center, Cisco IOS, NetFlow, Postman, Wireshark, Lucidchart, Fortinet, Nmap, Metasploit, Git, Ansible.
+- **OS Enthusiast**: Always eager to explore new operating systems, whether networking devices or custom lab devices.
 
 ## 📚 Current Learning Goals
 
