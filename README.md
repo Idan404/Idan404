@@ -8,19 +8,17 @@ I have a background in **networking** and **cybersecurity**, with hands-on exper
 
 ## 🔧 Skills & Technologies
 
-- **Networking**: CCNA, CCNP, deep understanding of network protocols, routing, and switching troubleshooting.
-- **Programming**: Python for intent networking, script development, and tools for troubleshooting.
-- **Operating Systems**: Proficient in Windows and Certified LE - 1: Linux Essentials, Linux skills growing as I dive deeper into Cybersecurity.
+- **Networking**: [CCNA](https://www.credly.com/badges/320f817a-50fe-475f-8fec-6de3a94b6859/public_url), [CCNP](), deep understanding of network protocols, routing, and switching troubleshooting.
+- **Programming**: Python for Intent based Networking, script development, and tools for troubleshooting.
+- **Operating Systems**: Proficient in Windows and Certified [LE - 1: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000530199/9gh229utgj), Linux skills growing as I dive deeper into Cybersecurity.
 - **Cybersecurity**: Hands on CyberSecurity Specialist, Most curios about OSINT and Forensics.
 - **Tools & Technologies**: ITSM, CRM, SCCM, Citrix, CyberARK, VMware, Docker, Active Directory, Cisco DNA Center, Cisco IOS, NetFlow, Postman, Wireshark, Lucidchart, Fortinet, Nmap, Metasploit, Git, Ansible.
 - **OS Enthusiast**: Always eager to explore new operating systems, whether networking devices or custom lab devices.
 
 ## 📚 Current Learning Goals
 
-- **Pursuing OSCP certification** to solidify my penetration testing skills.
+- **Pursuing OSCP certification** to solidify my cybersecurity skills.
 - **Exploring roles in network engineering** and cybersecurity to discover where I can best apply my expertise.
-- Actively learning more about **offensive security techniques**, including hands-on experience in labs.
-- **Collaborating on OSINT and forensic tools** while contributing to network automation scripts.
 
 ## 🌱 Projects & Contributions
 
@@ -31,7 +29,6 @@ I have a background in **networking** and **cybersecurity**, with hands-on exper
 
 - Secure a role in **network engineering or cybersecurity**, applying my growing skills while continuing to evolve in both fields.
 - **Collaborate with fellow professionals** and security enthusiasts to share knowledge and work on exciting projects.
-- **Break into the world of penetration testing** and help secure organizations by identifying and mitigating security vulnerabilities.
 
 ## 📫 Let's Connect!
 
