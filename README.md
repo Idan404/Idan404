@@ -8,7 +8,7 @@ I have a background in **networking** and **cybersecurity**, with hands-on exper
 
 ## 🔧 Skills & Technologies
 
-- **Networking**: [CCNA](https://www.credly.com/badges/320f817a-50fe-475f-8fec-6de3a94b6859/public_url), [CCNP](), deep understanding of network protocols, routing, and switching troubleshooting.
+- **Networking**: [CCNA](https://www.credly.com/badges/320f817a-50fe-475f-8fec-6de3a94b6859/public_url), [CCNP](https://www.credly.com/badges/2afbde03-9108-4719-96da-6e1ae79a6c31/public_url), deep understanding of network protocols, routing, and switching troubleshooting.
 - **Programming**: Python for Intent-based Networking, script development, and tools for troubleshooting.
 - **Operating Systems**: Proficient in Windows and Certified [LE - 1: Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000530199/9gh229utgj), Linux skills growing as I dive deeper into Cybersecurity.
 - **Cybersecurity**: Hands-on CyberSecurity Specialist, Most curious about OSINT and Forensics.
